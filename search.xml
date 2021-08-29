@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>前端工程化简介</title>
+    <url>/archives/f86000d3.html</url>
+    <content><![CDATA[<h2 id="什么是前端工程化？"><a href="#什么是前端工程化？" class="headerlink" title="什么是前端工程化？"></a>什么是前端工程化？</h2><p>前端工程化是指将前端开发的流程规范化、标准化，包括开发流程、技术选型、代码规范、构建发布等，用于提升前端工程师的开发效率和代码质量。</p>
+<p><strong>开发流程</strong>：需求分析、版本控制、缺陷管理、文档管理、自动化、性能测试、发布部署</p>
+<p><strong>技术选型</strong>：</p>
+<p>​    <strong>UI框架</strong>：iView、Ant、Element、Mint、Cube</p>
+<p>​    <strong>JS框架</strong>：MVVM</p>
+<p><strong>代码规范</strong>：</p>
+<p>​    标准：Standard、airbnb、Prettier</p>
+<p>​    公司：google、百度、腾讯、美团、饿了么</p>
+<p>​    <strong>模块化</strong></p>
+<p><strong>构建发布：</strong></p>
+<p>​    Jenkins、Webpack、Gulp、Yarn、Docker、Rancher、Kubernetes、Harbor、ECS</p>
+<h2 id="为什么需要前端工程化？"><a href="#为什么需要前端工程化？" class="headerlink" title="为什么需要前端工程化？"></a>为什么需要前端工程化？</h2><p><strong>复杂度高</strong>：前端项目的多功能、多页面、多状态、多系统</p>
+<p><strong>规模大</strong>：团队开发、多人协作、代码质量管理</p>
+<p><strong>要求高</strong>：页面性能优化（CDN/异步加载/请求合并），CSS兼容性、单页面应用、服务端渲染…</p>
+<h2 id="怎么做？"><a href="#怎么做？" class="headerlink" title="怎么做？"></a>怎么做？</h2><p><strong>从业务着手</strong></p>
+<p>简单的单页面应用，使用gulp打包+同步工具实现开发全流程</p>
+<p><strong>从复杂度考虑</strong></p>
+<p>jenkins git/gilab webpack React/Vue/Angular</p>
+<p><strong>从已知向未知扩展</strong></p>
+<p>不同的技术有不同的适应点，选择适合的才是最好的</p>
+]]></content>
+      <categories>
+        <category>前端</category>
+      </categories>
+      <tags>
+        <tag>工程化,前端</tag>
+      </tags>
+  </entry>
+</search>
